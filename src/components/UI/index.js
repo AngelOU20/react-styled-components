@@ -47,3 +47,12 @@ export const Detalle = styled.span`
   color: #41d3be;
   font-size: 24px;
 `;
+
+export const BtnTema = styled.div`
+  position: absolute;
+  top: 4vh;
+  right: 25px;
+  background-color: inherit;
+  border: none;
+  cursor: pointer;
+`;
